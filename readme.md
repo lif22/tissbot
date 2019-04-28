@@ -2,7 +2,7 @@
 *based on the Selenium-Webdriver wrapper for PowerShell by Adam Driscoll (https://github.com/adamdriscoll/selenium-powershell)*
 > Systemvoraussetzungen: Chrome 73 oder höher
 ## Getting Started
----------------
+
 1. Windows PowerShell als Administrator öffnen, ``Install-Module Selenium`` eingeben und mit ``Enter`` bestätigen
 2. Die Datei ``config.json`` mit einem Texteditor bearbeiten und die Werte entsprechend befüllen:
 	- ``matrikelnummer``: deine Matrikelnummer
