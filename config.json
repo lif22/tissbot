@@ -1,0 +1,16 @@
+{
+    "credentials":
+    {
+        "matrikelnummer": "01234567",
+        "passwort": "blablabla"
+    },
+    "scriptsetup":
+    {
+        "kurs": "309020",
+        "semester": "2018W",
+        "prfgNummer": 1,
+        "preferredSlot": 1,
+        "sleepTime": 350,
+        "promptBeforeAction": 0
+    }
+}

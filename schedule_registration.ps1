@@ -1,0 +1,1 @@
+Schtasks /create /tn "TISS Registration" /sc once /st 08:59:30 /tr "PowerShell C:/Pfad/zur/Datei/TissLogin.ps1"
