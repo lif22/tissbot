@@ -1,4 +1,4 @@
-# TU Wien TISS Bot
+# TISS Bot
 *based on the Selenium-Webdriver wrapper for PowerShell by Adam Driscoll (https://github.com/adamdriscoll/selenium-powershell)*
 > Systemvoraussetzungen: Chrome 73 oder höher
 ## Getting Started
