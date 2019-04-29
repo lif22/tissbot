@@ -11,7 +11,7 @@
 	- ``semester``: das Semester, welches auf der Prüfungsübersichtsseite in TISS angezeigt wird (muss nicht immer mit dem aktuellen Semester übereinstimmen; z.B. 2018W, 2019S etc.)
 	- ``prfgNummer``: wenn zum Zeitpunkt der Anmeldung mehrere Prüfungen offen sind - die wievielte auf der Prüfungsseite angezeigte und anmeldbare Prüfung möchtest du wählen (wenn nur eine vorhanden = 1)
 	- ``preferredSlot``: wenn es bei der Anmeldung Slots gibt (wie z.B. bei der mündlichen Mechanik 2 VO Prüfung): den wievielten freien Slot möchtest du haben? (ansonsten = 1)
-	- ``sleepTime``: wie aggresiv soll der Bot die Seite aktualisieren? Achtung - nicht übertreiben, ideal sind etwa 350-750ms
+	- ``sleepTime``: wie aggressiv soll der Bot die Seite aktualisieren? Achtung - nicht übertreiben, ideal sind etwa 350-750ms
 	- ``promptBeforeAction``: soll der Bot nach dem Login und vor dem wiederholten neu Laden der Seite noch einmal eine Bestätigung durch den Nutzer abfragen? 0=nein, 1=ja. Bei einem geplanten Lauf des Scripts (siehe geplanter Durchlauf) muss diese Option auf 0 gestellt sein.
 3. Datei speichern
 4. Rechtsklick auf die Datei ``TissLogin.ps1`` -> Öffnen mit -> Windows PowerShell.
